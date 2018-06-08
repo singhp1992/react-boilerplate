@@ -25,3 +25,4 @@ How To Run
       
 
     
+** there is one static component example in the components folder - just an example of the imports that should be there
