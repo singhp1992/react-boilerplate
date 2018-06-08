@@ -1,17 +1,18 @@
-# react-boilerplate
-boilerplate for future react apps
+# React-Boilerplate
 
-How it started
+Boilerplate for Future React Apps
 
-1. in iterm 
+How It Started
+
+1. In *iterm* 
       
-      yarn global add create-react-app 
+            yarn global add create-react-app 
       
-      create-react-app boilerplate
+            create-react-app boilerplate
     
-2. cd into boilerplate, in iterm 
+2. cd into boilerplate, in *iterm* 
 
-      yarn add redux react-redux redux-thunk
+            yarn add redux react-redux redux-thunk
       
 
     
